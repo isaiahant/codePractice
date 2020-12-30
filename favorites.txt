@@ -1,0 +1,24 @@
+let movies = {
+first: 'Goodfellas',
+second: 'The Room',
+third: 'movie3',
+fourth: 'movie4',
+fifth: 'movie5',
+}
+
+let games = {
+  first: 'game1',
+  second: 'game2',
+  third: 'game3',
+  fourth: 'game4',
+  fifth: 'game5',
+}
+
+let books = {
+  first: 'book1',
+  second: 'book2',
+  third: 'book3',
+  fourth: 'book4',
+  fifth: 'book5',
+}
+
